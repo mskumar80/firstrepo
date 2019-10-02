@@ -1,0 +1,16 @@
+# GIT Commands
+
+# For setting the User on the local repository 
+# GIT Config --global user.name "XXXX"
+
+# For Setting the email address of the user on the local repository
+# git config --global user.email "XXX@XXX"
+
+# Three Stages of Using GIT
+#  Add the file to the staging area GIT add "file Name"
+#  git add "File_Name"
+
+# Creating SSH Keys
+# 
+#
+#
